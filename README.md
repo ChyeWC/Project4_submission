@@ -38,6 +38,13 @@ The following data from 2007 to 2014 are available for our analysis.
   - Date of spray
   - Location of spray
 
+## Notebooks
+- 1_Project4_EDA - Exploratory Data Analysis
+- 2_Project4_Data_cleaning - Data cleaning
+- 3_Project4_Feature_Eng - Feature Engineering
+- 4_Project4_Modelling - Modelling
+- 5-Project4_GridsearchCV_grad - Gridsearch on Gradient Descent.
+
 ## Content
 
 - [Exploratory data analysis](#exploratory-data-analysis)
