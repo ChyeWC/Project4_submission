@@ -1,5 +1,11 @@
 # Project4_submission
-West Nile Virus predictions for Chicago
+West Nile Virus predictions for Chicago 
+
+# Team members
+Adrian Koh
+Chong Zi Liang
+Chye Wei Chiat
+Wee Yuan Liang
 
 # Fighting West Nile Virus in Chicago
 
