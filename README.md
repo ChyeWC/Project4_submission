@@ -49,7 +49,7 @@ Apart from Python, we also used other visualization tools, namely Tableau and Po
 - WNV was found spread throughout the city, no hot spots where virus is concentrated.
 - Virus is found in about 5% of data collected.
 - Correlation between number of mosquitos and whether conditions such as temperature and wetbulb reading.
-- Sprays conducted in 2011 and 2013 overlapped location of traps and did not seem to have obvious effect in lowering mosquito population in those areas.
+- Sprays conducted in 2011 and 2013 overlapped location of traps and observed a drop in mosquito population in those areas.
 
 <a id="data-cleaning"></a>
 ## Data preprocessing
