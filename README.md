@@ -111,7 +111,7 @@ The following models were experimented with:
 -	RandomForestClassifier
 -	BaggingClassifier
 
-Modelling was carried out on train data without any feature engineering performed. Gradient Boosting Classifier yields the best train results. The Gradient Boosting Classifier was used for the kaggle submission. This results in Kaggle public score of 0.69. The modelling was then carried out the data with the feature engineering performed. This results in a public score of 0.77. After performing Girdsearch, public score was improved to 0.78.
+Modelling was carried out on train data without any feature engineering performed. Gradient Boosting Classifier yields the best train results. The Gradient Boosting Classifier was used for the kaggle submission. This results in Kaggle public score of 0.72. The modelling was then carried out the data with the feature engineering performed. This results in a public score of 0.77. After performing Girdsearch, public score was improved to 0.78.
 
 <a id="conclusion"></a>
 ## Conclusion
